@@ -1,19 +1,16 @@
 ---
-# Banner
-banner:
+title: "Integration"
+meta_title: "Integration - Power AI"
+description: "Discover our powerful integration capabilities and seamless connections"
+image: ""
+draft: false
+page_header:
+  badge: "Ethereum Staking"
   title: |
-    Powering The Next
+    Seamless Integration for
     <br/>
-    <mark>Generation of Intelligence</mark>
-  content: "Elevate your site’s visibility effortlessly with AI, where smart technology meets user-friendly SEO tools."
-  badge:
-    enable: true
-    label: 2M Users Worldwide
-    images:
-      - "/images/avatars/avatar-1.jpg"
-      - "/images/avatars/avatar-2.jpg"
-      - "/images/avatars/avatar-3.png"
-  image: "/images/banner.png"
+    <mark>Modern Workflows</mark>
+  subtitle: "Connect PowerAI with your favorite tools and automate your workflow effortlessly."
   button_dark:
     enable: true
     label: "GitHub Repository"
