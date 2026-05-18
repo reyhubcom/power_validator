@@ -13,7 +13,7 @@
       "url": "/features"
     },
     {
-      "name": "Staking",
+      "name": "Pages",
       "url": "",
       "hasChildren": true,
       "mega_menu": {
@@ -22,7 +22,7 @@
         "mega_menu_groups": [
           [
             {
-              "name": "Bitcoin Staking",
+              "name": "Pricing",
               "url": "/pricing",
               "description": "View our pricing plans",
               "icon": "HiOutlineTag"
