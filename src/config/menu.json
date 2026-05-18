@@ -29,7 +29,7 @@
             },
             {
               "name": "Stake [ ETH ]",
-              "url": "/changelog",
+              "url": "/eth",
               "description": "Latest updates and fixes",
               "icon": "HiOutlineNewspaper"
             },
