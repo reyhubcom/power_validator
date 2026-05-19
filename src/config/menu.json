@@ -23,7 +23,7 @@
           [
             {
               "name": "Bitcoin Staking",
-              "url": "/pricing",
+              "url": "/integrations",
               "description": "View our pricing plans",
               "icon": "HiOutlineTag"
             },
@@ -35,7 +35,7 @@
             },
             {
               "name": "Stake [ SOL ]",
-              "url": "/integrations",
+              "url": "/content/sol",
               "description": "Connect your favorite tools",
               "icon": "HiOutlineCog"
             }
