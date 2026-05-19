@@ -35,7 +35,7 @@
             },
             {
               "name": "Stake [ SOL ]",
-              "url": "/content/sol",
+              "url": "/sol",
               "description": "Connect your favorite tools",
               "icon": "HiOutlineCog"
             }
